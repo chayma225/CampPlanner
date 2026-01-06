@@ -22,15 +22,13 @@ L'application offre une suite complète de fonctionnalités pour couvrir tous le
 | **Météo & Sécurité** | Prévisions et Conseils | Consultez les conditions météorologiques actuelles et les conseils de sécurité pour votre destination. |
 | **Authentification** | Connexion Sécurisée | Système d'inscription et de connexion pour gérer vos données personnelles. |
 
-## 📸 Aperçu de l'Application (Screenshots)
+## 🎥 Démonstration Vidéo
 
-Voici quelques aperçus de l'interface utilisateur de CampPlanner.
+Découvrez CampPlanner en action ! Cette courte vidéo présente les fonctionnalités clés de l'application, de la planification d'un séjour au suivi du budget.
 
-| Écran de Connexion | Écran de Planification | Écran de Budget |
-| :---: | :---: | :---: |
-| ![Écran de Connexion](assets/screenshot_login.png) | ![Écran de Planification](assets/screenshot_planning.png) | ![Écran de Budget](assets/screenshot_budget.png) |
+[![CampPlanner Démo Vidéo](assets/video_thumbnail.mp4)](LIEN_VERS_VOTRE_VIDEO)
 
-*Note : Veuillez remplacer les chemins d'accès et les noms de fichiers (`assets/screenshot_*.png`) par les vôtres et assurez-vous que les images sont disponibles dans votre dépôt.*
+*Note : Veuillez remplacer `assets/video_thumbnail.png` par une miniature de votre vidéo et `LIEN_VERS_VOTRE_VIDEO` par le lien réel vers votre vidéo (YouTube, Vimeo, etc.).*
 
 ## 🛠️ Technologies Utilisées
 
