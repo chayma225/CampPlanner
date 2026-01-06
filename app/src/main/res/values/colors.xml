@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <!-- Primary Colors - Green Theme -->
+    <color name="primary">#2EAA8B</color>
+    <color name="primary_dark">#1E7A5F</color>
+    <color name="primary_light">#4ECDC4</color>
+    <color name="primary_bg">#E6F7F3</color>
+
+    <!-- Base Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Background -->
+    <color name="background">#F0F7F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1A202C</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_tertiary">#A0AEC0</color>
+    <color name="text_disabled">#CBD5E0</color>
+
+    <!-- Status Colors -->
+    <color name="success">#2ECC71</color>
+    <color name="info">#3498DB</color>
+    <color name="warning">#F39C12</color>
+    <color name="error">#E74C3C</color>
+    <color name="danger">#E53E3E</color>
+
+    <!-- Budget Colors -->
+    <color name="budget_good">#2ECC71</color>
+    <color name="budget_warning">#F39C12</color>
+    <color name="budget_critical">#E74C3C</color>
+
+    <!-- Category Colors -->
+    <color name="category_blue">#3498DB</color>
+    <color name="category_green">#2ECC71</color>
+    <color name="category_orange">#F39C12</color>
+    <color name="category_purple">#9B59B6</color>
+    <color name="category_red">#E74C3C</color>
+    <color name="category_gray">#95A5A6</color>
+
+    <!-- Status Colors -->
+    <color name="status_confirmed">#2ECC71</color>
+    <color name="status_planned">#3498DB</color>
+    <color name="status_in_progress">#F39C12</color>
+    <color name="status_completed">#95A5A6</color>
+    <color name="status_cancelled">#E74C3C</color>
+
+    <!-- UI Colors -->
+    <color name="divider">#E2E8F0</color>
+    <color name="border">#CBD5E0</color>
+    <color name="shadow">#1A000000</color>
+
+    <!-- Accent -->
+    <color name="accent">#4ECDC4</color>
+</resources>

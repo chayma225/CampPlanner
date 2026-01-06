@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_planning"
+        android:icon="@drawable/ic_calendar"
+        android:title="Planning" />
+
+    <item
+        android:id="@+id/nav_budget"
+        android:icon="@drawable/ic_people"
+        android:title="Budget" />
+
+    <item
+        android:id="@+id/nav_reservation"
+        android:icon="@drawable/tent"
+        android:title="Réservation" />
+
+    <item
+        android:id="@+id/nav_equipment"
+        android:icon="@drawable/ic_expense"
+        android:title="Équipement" />
+
+    <item
+        android:id="@+id/nav_journal"
+        android:icon="@drawable/ic_location"
+        android:title="Journal" />
+
+    <item
+        android:id="@+id/nav_meteo"
+        android:icon="@drawable/ic_calendar"
+        android:title="Météo" />
+
+</menu>
