@@ -26,7 +26,7 @@ L'application offre une suite complète de fonctionnalités pour couvrir tous le
 
 Découvrez CampPlanner en action ! Cette courte vidéo présente les fonctionnalités clés de l'application, de la planification d'un séjour au suivi du budget.
 
-<video src="assets/video_thumbnail.mp4" controls width="100%" height="auto" muted autoplay loop></video>
+<video src="demo.mp4" controls width="100%" height="auto" muted autoplay loop></video>
 
 *Note : Veuillez vous assurer que le fichier `demo.mp4` est placé dans un dossier `assets` à la racine de votre dépôt. Pour les dépôts GitHub, vous devrez peut-être utiliser [Git LFS](https://git-lfs.com/) pour les fichiers volumineux.*
 ## 🛠️ Technologies Utilisées
@@ -67,5 +67,6 @@ Pour installer et exécuter le projet CampPlanner localement, suivez les étapes
 4.  **Exécuter l'Application** :
     *   Sélectionnez un émulateur ou un appareil physique connecté.
     *   Cliquez sur le bouton `Run` (▶️) pour compiler et déployer l'application.
+
 
 
